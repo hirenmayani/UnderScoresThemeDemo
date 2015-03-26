@@ -1,0 +1,52 @@
+Steps to install the same thing displayed to you:
+_S.rar file ne extract kar e pela .sql file ne import kravi deje phpmyadmin ma..
+bcoz j widget backend ma bnaya 6 e to j avse....database ma store thyo hoy eno code etle
+Step 1 - import underscore_s.sql
+Step 2 - extract _S.rar under "www" for wamp
+Step 3 - open phpmyadmin and run _S
+Step 4 - Provide database name same as .sql file.
+
+Am to tne avde j 6 bdhuuuu......aa to toy lakhyu bdhuuu, problm na pde etle... ;)
+
+(Assuming You have the PSD design of Website you want to design)
+Division of Task in Making Wordpress Theme From Scratch
+
+Week 1:
+	Convert Given design in HTML/CSS. (PSD to HTML/CSS)
+	With Responsiveness and using bootstrap.
+	
+Week 2:
+	Integrate HTML/CSS in Wordpress Theme
+	i.e. Create Homepage Template for Homepage and Innerpage Tempalte for Innerpages.
+	Only you need to copy the HTML/CSS code in header, footer, homepage_template file. And use respective functions of Wordpress
+	
+Week 3:
+	Add and Setup Various Plugins like "jQuery Slider on homepage", "Setting Featured Image kind of thing for innerpages",
+	"Calender plugin", "Social media plugin", "sitemap plugin", "Carousel Slider Plugin", "Plugin for Gallery"
+	In short Setup required components you need to make the site functional according to your need.
+
+Week 4:
+	Now, You may need some slider to customize of made by your own according to requirement as everything is not available.
+	So create that customized Plugins.
+
+Week 5:
+	Putting all plugins where they belong. As in Wordpress after design main important thing is to setup the plugins.
+	You may face some problems of Confliction of JS in two plugins.
+	
+Week 6:
+	Make the theme fully responsive including the changes needed in plugins. As some plugins may not come with responsiveness.	
+	
+Week 7:
+	Test the Theme in Various Browsers aspecially in SAFARI.
+
+Week 8:
+	
+Week 9:
+
+Week 10:
+
+
+(If you don't have website design in PSD, then you will need nearly 1.5week to design may be..)
+
+
+Nearly atlo tym joie...... Bki jo design kai Complex hoy and Kai vadhu Customizable joie to var lagse.....Me bki na 3 week nai lakhya....j joise j tare coz i knw design kaik complex j hse tari as you are giving it for GSOC
